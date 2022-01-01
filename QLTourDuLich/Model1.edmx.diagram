@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="08ad3734c82b48bb8dfbdebe6a32d83e" Name="Diagram1">
+        <EntityTypeShape EntityType="QUANLYTOURDULICHModel.CHIPHI" Width="1.5" PointX="7.5" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANLYTOURDULICHModel.CHITIETDOAN" Width="1.5" PointX="7.5" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANLYTOURDULICHModel.CHITIETTOUR" Width="1.5" PointX="5.25" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANLYTOURDULICHModel.DIADIEM" Width="1.5" PointX="3" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANLYTOURDULICHModel.DOANDULICH" Width="1.5" PointX="5.25" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANLYTOURDULICHModel.GIATOUR" Width="1.5" PointX="5.25" PointY="11.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANLYTOURDULICHModel.KHACH" Width="1.5" PointX="5.25" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANLYTOURDULICHModel.LOAICHIPHI" Width="1.5" PointX="5.25" PointY="14.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANLYTOURDULICHModel.LOAIHINHDULICH" Width="1.5" PointX="0.75" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANLYTOURDULICHModel.NHANVIEN" Width="1.5" PointX="10" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANLYTOURDULICHModel.NOIDUNG" Width="1.5" PointX="7.5" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANLYTOURDULICHModel.PHANBONHANVIEN" Width="1.5" PointX="10" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANLYTOURDULICHModel.TOURDULICH" Width="1.5" PointX="3" PointY="6.625" IsExpanded="true" />
+        <AssociationConnector Association="QUANLYTOURDULICHModel.FK_CHIPHI" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANLYTOURDULICHModel.FK_CHIPHI1" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANLYTOURDULICHModel.FK_CHITIETDOAN" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANLYTOURDULICHModel.FK_CHITIETDOAN1" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANLYTOURDULICHModel.FK_CHITIETTOUR" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANLYTOURDULICHModel.FK_CHITIETTOUR1" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANLYTOURDULICHModel.FK_DOANDULICH" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANLYTOURDULICHModel.FK_NOIDUNG" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANLYTOURDULICHModel.FK_GIATOUR" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANLYTOURDULICHModel.FK_TOURDULICH" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANLYTOURDULICHModel.FK_PHANBONHANVIEN" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

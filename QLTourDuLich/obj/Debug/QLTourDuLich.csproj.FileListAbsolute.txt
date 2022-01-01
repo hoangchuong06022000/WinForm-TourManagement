@@ -1,0 +1,47 @@
+D:\1- Xây dựng ứng dụng\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.exe.config
+D:\1- Xây dựng ứng dụng\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.exe
+D:\1- Xây dựng ứng dụng\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.pdb
+D:\1- Xây dựng ứng dụng\QLTourDuLich\QLTourDuLich\bin\Debug\EntityFramework.dll
+D:\1- Xây dựng ứng dụng\QLTourDuLich\QLTourDuLich\bin\Debug\EntityFramework.SqlServer.dll
+D:\1- Xây dựng ứng dụng\QLTourDuLich\QLTourDuLich\bin\Debug\EntityFramework.xml
+D:\1- Xây dựng ứng dụng\QLTourDuLich\QLTourDuLich\bin\Debug\EntityFramework.SqlServer.xml
+D:\1- Xây dựng ứng dụng\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.AssemblyReference.cache
+D:\1- Xây dựng ứng dụng\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Properties.Resources.resources
+D:\1- Xây dựng ứng dụng\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.GenerateResource.cache
+D:\1- Xây dựng ứng dụng\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.CoreCompileInputs.cache
+D:\1- Xây dựng ứng dụng\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.exe
+D:\1- Xây dựng ứng dụng\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.pdb
+D:\1- Xây dựng ứng dụng\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Main.resources
+D:\1- Xây dựng ứng dụng\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.FormChinh.resources
+D:\1- Xây dựng ứng dụng\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.GUI.GUI_QLLoaiHinh.resources
+D:\1- Xây dựng ứng dụng\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.GUI.GUI_Edit_Tour.resources
+D:\1- Xây dựng ứng dụng\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.GUI.GUI_ChiTietTour.resources
+D:\1- Xây dựng ứng dụng\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.GUI.GUI_QLDIADIEM.resources
+D:\1- Xây dựng ứng dụng\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.GUI.GUI_KhachHang.resources
+D:\1- Xây dựng ứng dụng\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.GUI.GUI_Doan.resources
+D:\2- CSDL Phân Tán\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.exe.config
+D:\2- CSDL Phân Tán\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.exe
+D:\2- CSDL Phân Tán\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.pdb
+D:\2- CSDL Phân Tán\QLTourDuLich\QLTourDuLich\bin\Debug\EntityFramework.dll
+D:\2- CSDL Phân Tán\QLTourDuLich\QLTourDuLich\bin\Debug\EntityFramework.SqlServer.dll
+D:\2- CSDL Phân Tán\QLTourDuLich\QLTourDuLich\bin\Debug\EntityFramework.xml
+D:\2- CSDL Phân Tán\QLTourDuLich\QLTourDuLich\bin\Debug\EntityFramework.SqlServer.xml
+D:\2- CSDL Phân Tán\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.AssemblyReference.cache
+D:\2- CSDL Phân Tán\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.FormChinh.resources
+D:\2- CSDL Phân Tán\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.GUI.GUI_ChiTietTour.resources
+D:\2- CSDL Phân Tán\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.GUI.GUI_Doan.resources
+D:\2- CSDL Phân Tán\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.GUI.GUI_Edit_Tour.resources
+D:\2- CSDL Phân Tán\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.GUI.GUI_KhachHang.resources
+D:\2- CSDL Phân Tán\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.GUI.GUI_QLDIADIEM.resources
+D:\2- CSDL Phân Tán\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.GUI.GUI_QLLoaiHinh.resources
+D:\2- CSDL Phân Tán\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Main.resources
+D:\2- CSDL Phân Tán\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Properties.Resources.resources
+D:\2- CSDL Phân Tán\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.GenerateResource.cache
+D:\2- CSDL Phân Tán\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.CoreCompileInputs.cache
+D:\2- CSDL Phân Tán\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.exe
+D:\2- CSDL Phân Tán\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.pdb
+D:\2- CSDL Phân Tán\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.GUI.GUI_ChiTietDoan.resources
+D:\2- CSDL Phân Tán\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.GUI.GUI_ChiPhi.resources
+D:\2- CSDL Phân Tán\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.GUI.GUI_PhanBoNhanVien.resources
+D:\2- CSDL Phân Tán\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.GUI.GUI_ThongKe.resources
+D:\2- CSDL Phân Tán\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.GUI.GUI_NoiDung.resources
